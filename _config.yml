@@ -29,7 +29,7 @@ url: "https://karlsayle.github.io" # the base hostname & protocol for your site,
 github_username:  karlsayle
 
 # Build settings
-theme: jekyll-theme-yat
+theme: minima
 plugins:
   - jekyll-feed
 
